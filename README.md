@@ -11,24 +11,6 @@ Aplicación web desarrollada utilizando el stack MERN:
 
 Este proyecto consiste en una aplicación web con autenticación mediante JWT (JSON Web Token), separando el backend (servidor) y el frontend (cliente) en carpetas independientes.
 
-## Estructura del Proyecto
-```
-proyecto-mern/
-│
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── .env
-│
-└── frontend/
-    ├── index.html
-    ├── style.css
-    └── app.js
-```
-
-- `backend/` → Servidor Node.js con Express y generación de JWT
-- `frontend/` → Formulario de Login con validaciones
-
 ## Instalación y Ejecución
 
 ### 1. Clonar el repositorio
